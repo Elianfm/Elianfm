@@ -26,10 +26,16 @@ Apasionado por la tecnología y el desarrollo de software, actualmente me encuen
 
 ---
 
+### 🚧 **Portafolio Personal**
+
+- Creación de un sitio web personal para mostrar mis proyectos y habilidades.
+- Incorporación de secciones como "Sobre mí", "Proyectos", "Habilidades" y "Contacto".
+
+
 ### 🛠️ Tecnologías y Herramientas
 
-- **Frontend:** Angular, HTML5, SCSS, TypeScript
-- **Backend:** Spring Boot, Java
+- **Frontend:** Angular, HTML, SCSS, TypeScript
+- **Backend:** Spring, Java
 - **Bases de Datos:** MySQL, PostgreSQL
 - **Control de Versiones:** Git, GitHub
 
