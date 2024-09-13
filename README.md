@@ -24,9 +24,7 @@ Apasionado por la tecnología y el desarrollo de software, actualmente me encuen
 - Integración de APIs de traducción y reconocimiento de voz.
 - Diseño de una interfaz intuitiva y amigable para el usuario.
 
----
-
-### 🚧 **Portafolio Personal**
+#### 🚧 **Portafolio Personal**
 
 - Creación de un sitio web personal para mostrar mis proyectos y habilidades.
 - Incorporación de secciones como "Sobre mí", "Proyectos", "Habilidades" y "Contacto".
