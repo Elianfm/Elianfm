@@ -13,26 +13,20 @@ Apasionado por la tecnología y el desarrollo de software, actualmente me encuen
 ### 💻 Proyectos en Desarrollo
 
 #### 🛒 **E-commerce con Spring Boot y Angular**
-
 - Desarrollo de una plataforma de comercio electrónico completa.
 - Implementación de características como gestión de productos, carrito de compras y procesamiento de pagos.
-- Enfoque en seguridad, escalabilidad y rendimiento.
 
 #### 🌐 **Aplicación de Traducción Multilingüe**
-
-- Creación de una aplicación que permite traducciones en tiempo real entre varios idiomas.
+- Plataforma para el aprendizaje de inglés asistido con IA
 - Integración de APIs de traducción y reconocimiento de voz.
-- Diseño de una interfaz intuitiva y amigable para el usuario.
 
 #### 🚧 **Portafolio Personal**
-
 - Creación de un sitio web personal para mostrar mis proyectos y habilidades.
 - Incorporación de secciones como "Sobre mí", "Proyectos", "Habilidades" y "Contacto".
 
 
 ### 🛠️ Tecnologías y Herramientas
-
-- **Frontend:** Angular, HTML, SCSS, TypeScript
+- **Frontend:** Angular con HTML, SCSS, TypeScript
 - **Backend:** Spring, Java
 - **Bases de Datos:** MySQL, PostgreSQL
 - **Control de Versiones:** Git, GitHub
